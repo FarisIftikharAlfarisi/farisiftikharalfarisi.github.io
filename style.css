@@ -1,0 +1,10 @@
+body{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+/* .navbar-toggler{
+    border: none;
+}::hover{
+    display: none;
+} */
